@@ -12,7 +12,7 @@ Tasks are saved in the browser using `localStorage`.
 - ✅ Responsive & styled with Tailwind CSS
 
 ## 🌐 Live Demo  
-👉 [Click here to try the app](https://your-vercel-url.vercel.app)
+👉 [Click here to try the app](https://to-do-app-virid-alpha.vercel.app/)
 
 
 ## 🚀 Getting Started
